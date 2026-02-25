@@ -2,6 +2,6 @@ pyrogram
 pymongo[srv]==3.12.3
 aiohttp
 pydub
-pytube
+pytube==15.0.0
 tgcrypto
 ffmpeg
